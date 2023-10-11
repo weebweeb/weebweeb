@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi <img src="https://raw.githubusercontent.com/weebweeb/weebweeb/main/waving.gif" width=10% height=10%>, I'm Alice
-=========================================================================================================
 
 I'm a freelance game/application developer and an engineering student at The University of Arizona. Check out my [resume](https://github.com/weebweeb/weebweeb/blob/main/Resume-Alice-Oppenheim.pdf) for more details
 
