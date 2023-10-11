@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi ![waving hand](https://raw.githubusercontent.com/weebweeb/weebweeb/main/waving.gif), I'm Alice
+Hi ![waving hand](https://raw.githubusercontent.com/weebweeb/weebweeb/main/waving.gif=250x250), I'm Alice
 =========================================================================================================
 
 I'm a freelance game/application developer and an engineering student at The University of Arizona. Check out my [resume](https://github.com/weebweeb/weebweeb/blob/main/Resume-Alice-Oppenheim.pdf) for more details
