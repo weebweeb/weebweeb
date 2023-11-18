@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/weebweeb/weebweeb/main/waving.gif" width=4% height=4%>, I'm Alice
 
-I'm a freelance game/application developer and an engineering student at The University of Arizona. Check out my [resume](https://github.com/weebweeb/weebweeb/blob/main/Resume-Alice-Oppenheim.pdf) for more details
+I'm a freelance game/application developer and an engineering student at The University of Arizona. Check out my [resume](https://github.com/weebweeb/weebweeb/blob/main/Alice%20Resume.pdf) for more details
 
 Currently working on making the game development process easier for everyone.
 
