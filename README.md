@@ -2,16 +2,16 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/weebweeb/weebweeb/main/waving.gif" width=4% height=4%>, I'm Alice
 
-I'm a freelance game/application developer and an engineering student at The University of Arizona.
+I'm a freelance game/application developer with education from The University of Arizona.
 Currently working on making the game development process easier for everyone.
 
-Humbly looking for intern or entry level offers. Let me know!
+Humbly looking for any offers. Let me know!
 
 ## Contact
 
 Questions? ask them [here](https://github.com/weebweeb/weebweeb/issues)
 
- [![LinkedIn](https://img.shields.io/badge/Alice-Oppenheim-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alice-oppenheim-8560a6275/)[![Gmail](https://img.shields.io/badge/-epicalice1234@gmail.com-f2f2f2?logo=gmail)](mailto:epicalice1234@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/Alice-Oppenheim-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alice-oppenheim-8560a6275/)[![Gmail](https://img.shields.io/badge/-aliceoppenh@gmail.com-f2f2f2?logo=gmail)](mailto:aliceoppenh@gmail.com)
 
 ## Languages and Skills
 
